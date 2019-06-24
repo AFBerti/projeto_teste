@@ -1,0 +1,11 @@
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\bin\Debug\netcoreapp2.1\projeto_teste.deps.json
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\bin\Debug\netcoreapp2.1\projeto_teste.runtimeconfig.json
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\bin\Debug\netcoreapp2.1\projeto_teste.runtimeconfig.dev.json
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\bin\Debug\netcoreapp2.1\projeto_teste.dll
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\bin\Debug\netcoreapp2.1\projeto_teste.pdb
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\obj\Debug\netcoreapp2.1\projeto_teste.csprojAssemblyReference.cache
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\obj\Debug\netcoreapp2.1\projeto_teste.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\obj\Debug\netcoreapp2.1\projeto_teste.AssemblyInfoInputs.cache
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\obj\Debug\netcoreapp2.1\projeto_teste.AssemblyInfo.cs
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\obj\Debug\netcoreapp2.1\projeto_teste.dll
+C:\Users\Adriano\Desktop\Visual Studio\Curso\projeto_teste\obj\Debug\netcoreapp2.1\projeto_teste.pdb
